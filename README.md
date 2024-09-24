@@ -14,6 +14,7 @@ Cadres et contrôles qui éclairent les opérations de sécurité
 Outils SIEM pour la cybersécurité
 Détecter et répondre aux incidents à l'aide d'un système de détection d'intrusion
 Effectuer la capture et l'analyse des paquets
+
 De plus, cela m'a ouvert la voie pour occuper l'un des postes de débutant suivants :
 
 Analyste en cybersécurité
@@ -22,8 +23,13 @@ Analyste SOC
 Analyste en sécurité de l'information
 Analyste en sécurité informatique
 Analyste en cyberdéfense
+
+
 Compétences
+
+
 Projets	Compétences/Connaissances acquises
+
 1 - Réaliser un audit de sécurité	INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP,CIA triad
 2 - Sécurité du réseau	TCP/IP model, Network Architecture, Network Communication, Security Hardening, Network Security,Cloud Networks
 3 - Linux et SQL	Command-line Interface, SQL, Linux,Bash
@@ -32,7 +38,9 @@ Projets	Compétences/Connaissances acquises
 6 - Tcpdump et Wireshark	Packet Analyzer
 7 - Systèmes de détection et de réponse aux incidents (SDI) et SIEM	Intrusion Detection System (IDS): Suricata,Security Information and Event Management (SIEM): Chronicle, Splunk
 8 - Automatisation avec Python	Computer Programming, Python Programming, Coding,PEP 8 Style Guide
+
 Outils
+
 Plusieurs outils que j'ai utilisés :
 
 Google Workspace (Drive, Docs, Sheets, Slides)
